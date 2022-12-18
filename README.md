@@ -1,0 +1,2 @@
+# Super-Store-Sales-Prediction
+#### For these kinds of challenges, regression is a useful machine learning model. Predicting sales of a firm requires time series data from that company, and the model can predict future sales of that company or product based on that data. As a result, in this research project, we will evaluate a company's time-series sales data and forecast the company's sales for the future quarter and for a specific product.
